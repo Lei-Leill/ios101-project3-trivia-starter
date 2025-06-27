@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
+![App Demo](project3_demo.gif)
 
 ## Notes
 
